@@ -40,20 +40,10 @@
   
 <distributionManagement>
     <repository>
-    <id>GAMEOFLIFE</id>
+    <id>NEXUS</id>
      <url>
-          http://18.216.145.93:8081/nexus/content/repositories/GAMEOFLIFE/
+         http://18.216.145.93:8081/nexus/content/repositories/NEXUS/
      </url>
    </repository>
-    <snapshotRepository>	
-        <id>Releases</id>
-    <url>
-       http://18.216.145.93:8081/nexus/content/repositories/Releases/
-  </url>
-    </snapshotRepository>
 </distributionManagement>
-
-
-
-
 </project>
